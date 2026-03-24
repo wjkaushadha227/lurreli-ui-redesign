@@ -86,5 +86,3 @@ The redesigned interface shows improvements in:
 
 
 
-✨ *This project demonstrates how user-centered design can significantly improve real-world systems.*# lurreli-ui-redesign
-From confusion to clarity — a user-centered redesign of an e-commerce experience.
