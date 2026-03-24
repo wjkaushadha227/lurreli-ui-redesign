@@ -1,8 +1,5 @@
 # 🛍️ Lurreli Online Shopping Store – UI/UX Redesign
 
-A usability evaluation and redesign project for the Lurreli online shopping website, developed as part of the Human Computer Interaction (HCI) module at NSBM Green University.
-
-
 ## 📌 Project Overview
 This project focuses on analyzing and improving the user experience of an existing e-commerce platform.
 
